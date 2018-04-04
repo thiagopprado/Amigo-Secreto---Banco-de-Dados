@@ -11,8 +11,8 @@
 
 #define HOST "sql3.freesqldatabase.com"
 #define DB "sql3210438"
-#define USER "sql3210438"
-#define PASS "MqDgPAE5Yk"
+#define USER "xxxx"
+#define PASS "xxxxxx"
 
 using namespace std;
 

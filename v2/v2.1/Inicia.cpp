@@ -6,8 +6,8 @@
 
 #define endereco "sql3.freesqldatabase.com"
 #define banco_de_dados "sql3210438"
-#define usuario "sql3210438"
-#define senha "MqDgPAE5Yk"
+#define usuario "xxxx"
+#define senha "xxxxxx"
 using namespace std;
 
 bool insere (string nome){
